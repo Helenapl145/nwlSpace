@@ -19,7 +19,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Cápsula" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Cápsula" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,11 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A cápsula do tempo é um app para mostrar as histórias junta com a Rockeseat durante esses 6 anos.
 
-- [Visite o projeto online](https://helenapl145.github.io/nlw-setup/)
+- [Visite o projeto online](https://helenapl145.github.io/nwlSpace/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238](https://www.figma.com/community/file/1240071097028170811). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1240071097028170811). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
